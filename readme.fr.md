@@ -28,5 +28,5 @@ Coût estimée : 6.55€
   * Arduino: http://arduino.madnerd.org
 
 # Libraries (inclus)
-Liquid Crystal : https://www.arduino.cc/en/Reference/LiquidCrystal
+Liquid Crystal : https://www.arduino.cc/en/Reference/LiquidCrystal   
 Time : http://playground.arduino.cc/Code/Time
