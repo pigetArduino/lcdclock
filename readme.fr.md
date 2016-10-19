@@ -1,7 +1,7 @@
 Lcd Clock
 ----------
 
-[Version française / French version](https://github.com/pigetArduino/lcdclock/blob/master/readme.fr.md)
+[Original](https://github.com/pigetArduino/lcdclock/blob/master/readme.md)
 
 Un chronomètre fait à partir d'un arduino uno et d'un shield DF Robot LCD Keypad.   
 ![lcdclock](https://github.com/pigetArduino/lcdclock/blob/master/doc/lcdclock.jpg)
@@ -28,5 +28,5 @@ Coût estimée : 6.55€
   * Arduino: http://arduino.madnerd.org
 
 # Libraries (inclus)
-Liquid Crystal : https://www.arduino.cc/en/Reference/LiquidCrystal
+Liquid Crystal : https://www.arduino.cc/en/Reference/LiquidCrystal   
 Time : http://playground.arduino.cc/Code/Time
