@@ -1,0 +1,52 @@
+{
+    "description": "Allows communication with alphanumerical liquid crystal displays (LCDs).", 
+    "repository": {
+        "url": "https://github.com/arduino-libraries/LiquidCrystal", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif8266", 
+        "intel_arc32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "export": {
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ], 
+        "include": null
+    }, 
+    "authors": [
+        {
+            "maintainer": true, 
+            "name": "Arduino", 
+            "url": null, 
+            "email": "info@arduino.cc"
+        }, 
+        {
+            "maintainer": false, 
+            "name": "Adafruit", 
+            "url": null, 
+            "email": null
+        }
+    ], 
+    "keywords": [
+        "display"
+    ], 
+    "id": 887, 
+    "name": "LiquidCrystal", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "1.0.5", 
+    "homepage": "http://www.arduino.cc/en/Reference/LiquidCrystal"
+}
