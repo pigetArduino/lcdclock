@@ -3,8 +3,8 @@ Lcd Clock
 
 [Version française / French version](https://github.com/pigetArduino/lcdclock/blob/master/readme.fr.md)
 
-This is a simple timer using an arduino uno and DF Robot LCD Keypad Shield
-![lcdclock](https://github.com/pigetArduino/gpsLogger/blob/master/doc/lcdclock.jpg)
+This is a simple timer using an arduino uno and DF Robot LCD Keypad Shield    
+![lcdclock](https://github.com/pigetArduino/lcdclock/blob/master/doc/lcdclock.jpg)
 
 # Instructions
 * Download : http://lcdclock.madnerd.org

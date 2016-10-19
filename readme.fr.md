@@ -3,8 +3,8 @@ Lcd Clock
 
 [Version française / French version](https://github.com/pigetArduino/lcdclock/blob/master/readme.fr.md)
 
-Un chronomètre fait à partir d'un arduino uno et d'un shield DF Robot LCD Keypad.
-![lcdclock](https://github.com/pigetArduino/gpsLogger/blob/master/doc/lcdclock.jpg)
+Un chronomètre fait à partir d'un arduino uno et d'un shield DF Robot LCD Keypad.   
+![lcdclock](https://github.com/pigetArduino/lcdclock/blob/master/doc/lcdclock.jpg)
 
 # Instructions
 * Télécharger : http://lcdclock.madnerd.org
