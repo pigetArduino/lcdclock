@@ -12,12 +12,12 @@ This is a simple timer using an arduino uno and DF Robot LCD Keypad Shield
 * Upload 
 
 # Manual
-LEFT: -1 minute
-RIGHT: +1 minute
-UP: +1 hour
-DOWN -1 hour
-RST: Reset timer
-Select: Turn off/on backlight
+LEFT: -1 minute   
+RIGHT: +1 minute   
+UP: +1 hour   
+DOWN -1 hour   
+RST: Reset timer   
+Select: Turn off/on backlight   
 
 # Components:
   * Arduino Uno ch340g : 3.57€

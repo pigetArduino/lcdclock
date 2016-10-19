@@ -12,12 +12,12 @@ Un chronomètre fait à partir d'un arduino uno et d'un shield DF Robot LCD Keyp
 * Téléverser sur l'arduino
 
 # Utilisation
-LEFT: -1 minute
-RIGHT: +1 minute
-UP: +1 heure
-DOWN -1 heure
-RST: Reset du timer
-Select: Allumer/Eteindre l'éclairage de LCD
+LEFT: -1 minute   
+RIGHT: +1 minute   
+UP: +1 heure   
+DOWN -1 heure   
+RST: Reset du timer   
+Select: Allumer/Eteindre l'éclairage de LCD   
 
 # Composants:
   * Arduino Uno ch340g : 3.57€
