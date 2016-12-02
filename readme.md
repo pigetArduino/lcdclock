@@ -6,7 +6,7 @@ Lcd Timer
 Need a timer ? Let's make one with an **Arduino Uno** and **DF Robot LCD Keypad Shield**    
 ![LCD Timer](https://github.com/pigetArduino/lcdclock/blob/master/doc/lcdclock.jpg)
 
-Démo : https://www.youtube.com/watch?v=j7cAT0RNRh0
+Demo : https://www.youtube.com/watch?v=j7cAT0RNRh0
 
 # Manual
 ![LCD Timer Manual](https://github.com/pigetArduino/lcdclock/blob/master/doc/lcdtimer_manual.png)
