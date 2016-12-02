@@ -1,6 +1,3 @@
-Lcd Timer
-----------
-
 [Version française / French version](https://github.com/pigetArduino/lcdclock/blob/master/readme.fr.md)
 
 Need a timer ? Let's make one with an **Arduino Uno** and **DF Robot LCD Keypad Shield**    
