@@ -5,8 +5,8 @@
 -----------------------------------
  Components
 -----------------------------------
-1 Arduino Uno 
-1 DFROBOT LCD Keypad Shield
+Arduino Uno 
+DFROBOT LCD Keypad Shield
 
 Usage
 -----------------------------------
@@ -16,7 +16,13 @@ UP: +1 hour
 DOWN -1 hour
 RST: Reset timer
 Select: Turn off/on backlight
+
+Source
+--------
+DFRobot LCD : https://www.dfrobot.com/wiki/index.php/LCD_KeyPad_Shield_For_Arduino_SKU:_DFR0009
+Arduino DateTime: http://playground.arduino.cc/Code/DateTime
 */
+
 #include <LiquidCrystal.h>
 #include <TimeLib.h>
 
@@ -36,7 +42,6 @@ int adc_key_in  = 0;
 #define btnLEFT   3
 #define btnSELECT 4
 #define btnNONE   5
-
 
 void setup() {
  //Disable onboard Led
