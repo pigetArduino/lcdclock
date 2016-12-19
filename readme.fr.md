@@ -1,3 +1,6 @@
+Chronomètre
+------------
+
 [Original](https://github.com/pigetArduino/lcdclock/blob/master/readme.md)
 
 Besoin d'un minuteur? Voici comment en faire un avec un **Arduino Uno** et d'un **shield DF Robot LCD Keypad**.   
